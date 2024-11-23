@@ -12,5 +12,5 @@ Program for Interpolating a Function Given in Tabular Form using Newton Polynomi
    • interpolation error.  
 
    
-   y = e^x - 1 / x, xᵢ = 0.2 + 0.5∙i; i = 0, 1, …, 9, 10;  
-   xⱼ = 0.2 + 0.25∙j; j = 0, 1, …, 19, 20;
+   $y = e^x - 1 / x, xᵢ = 0.2 + 0.5∙i; i = 0, 1, …, 9, 10;$  
+   $xⱼ = 0.2 + 0.25∙j; j = 0, 1, …, 19, 20;$
